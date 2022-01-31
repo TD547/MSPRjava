@@ -1,0 +1,19 @@
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+    padding: 1px;
+    border: 2px solid red;
+}
+
+.materiel{
+    text-align : center;
+}
+
+li{
+    list-style-type: none;
+}
